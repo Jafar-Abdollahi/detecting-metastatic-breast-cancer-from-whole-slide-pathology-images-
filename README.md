@@ -1,0 +1,2 @@
+# detecting-metastatic-breast-cancer-from-whole-slide-pathology-images-
+In cancer patients, the main event resulting in death is metastasis. Being time-consuming and labor-intensive, traditional diagnosis approaches utilized for lymph node metastases, a.k.a. LNMets, are not fairly effective. Consequently, diagnostic complexes based upon deep learning (DL) algorithms have turned into a hot trend. The purpose of this study is to design, develop, and evaluate a deep learning system being able to detect metastases related to the lymph node. 
